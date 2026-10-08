@@ -7,9 +7,9 @@ Revisar o conteúdo, as citações, as referências e a formatação antes da en
 ## Identificação
 
 - **Título do artigo:** Inteligência artificial generativa e desigualdade de oportunidades no mercado de trabalho brasileiro
-- **Versão revisada:** `[preencher pelo grupo]`
-- **Data:** `[preencher pelo grupo]`
-- **Responsável pela conferência final:** `[preencher pelo grupo]`
+- **Versão revisada:** ``
+- **Data:** `08/10/2026`
+- **Responsável pela conferência final:** `Todos`
 
 ## Revisão científica
 
